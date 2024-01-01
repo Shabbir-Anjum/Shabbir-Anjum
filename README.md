@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahr_shabbir" target="blank"><img src="https://img.shields.io/twitter/follow/mahr_shabbir?logo=twitter&style=for-the-badge" alt="mahr_shabbir" /></a> </p>
 
-- 🌱 I’m currently learning **React.JS, Node.JS, MongoDB**
+- 🌱 I’m currently working at SAMIT on Training Projects
 
 - 📫 How to reach me **mahrshabbir768@gmail.com**
 
