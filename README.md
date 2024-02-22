@@ -11,7 +11,7 @@
 - 📫 How to reach me **mahrshabbir768@gmail.com**
 
 - ⚡ Fun fact **I am Happy**
-- https://shabbiranjum.vercel.app/
+- ⚡ https://shabbiranjum.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
