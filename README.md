@@ -8,11 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/mahr_shabbir" target="blank"><img src="https://img.shields.io/twitter/follow/mahr_shabbir?logo=twitter&style=for-the-badge" alt="mahr_shabbir" /></a> </p>
 - 🌱 I’m currently working at SMIT on training projects
-
 - 📫 How to reach me **mahrshabbir768@gmail.com**
-- 
 - ⚡ Fun fact **I am Happy**
-- 
 - ⚡ https://shabbiranjum.vercel.app/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
