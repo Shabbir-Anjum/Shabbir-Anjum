@@ -8,7 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabbir-anjum&label=Profile%20views&color=0e75b6&style=flat" alt="shabbir-anjum" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mahr_shabbir" target="blank"><img src="https://img.shields.io/twitter/follow/mahr_shabbir?logo=twitter&style=for-the-badge" alt="mahr_shabbir" /></a> </p>
-- 🌱 I’m currently working at SMIT on training projects
+
+- 🌱 I’m currently Learning by working on lablab.ai Heckathons
 
 - 📫 How to reach me **mahrshabbir768@gmail.com**
   
