@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahr_shabbir" target="blank"><img src="https://img.shields.io/twitter/follow/mahr_shabbir?logo=twitter&style=for-the-badge" alt="mahr_shabbir" /></a> </p>
 
-- 🌱 I’m currently Learning by working on lablab.ai Heckathons
+- 🌱 I’m currently Learning by participating on lablab.ai Hackathons
 
 - 📫 How to reach me **mahrshabbir768@gmail.com**
   
@@ -20,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+
   
 <a href="https://twitter.com/mahr_shabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahr_shabbir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shabbir-anjum-942495177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shabbir-anjum-942495177" height="30" width="40" /></a>
