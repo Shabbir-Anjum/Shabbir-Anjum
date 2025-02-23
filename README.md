@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shabbir Anjum</h1>
 
 
-<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
+<h3 align="center">MERN Stack developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://images.fastcompany.net/image/upload/wp-cms/uploads/2023/08/p-3-90931184-hire-education.webp">
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahr_shabbir" target="blank"><img src="https://img.shields.io/twitter/follow/mahr_shabbir?logo=twitter&style=for-the-badge" alt="mahr_shabbir" /></a> </p>
 
-- 🌱 I’m currently Learning by participating on lablab.ai Hackathons
+- 🌱 I’m currently doing RPA job At Ashtex Solution
 
 - 📫 How to reach me **mahrshabbir768@gmail.com**
   
